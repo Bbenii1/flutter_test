@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "name": "uwu.exe (runner\\uwu.exe)",
+      "project": "windows\\CMakeLists.txt",
+      "projectTarget": "uwu.exe (runner\\uwu.exe)",
+      "type": "default"
+    }
+  ]
+}

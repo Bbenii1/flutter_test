@@ -1,0 +1,54 @@
+# ninja log v5
+4	6426	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_windows.dll	e369c19235cccb01
+4	6426	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_export.h	e369c19235cccb01
+4	6426	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_windows.h	e369c19235cccb01
+4	6426	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_messenger.h	e369c19235cccb01
+4	6426	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_plugin_registrar.h	e369c19235cccb01
+4	6426	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_texture_registrar.h	e369c19235cccb01
+4	6426	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/cpp_client_wrapper/core_implementations.cc	e369c19235cccb01
+4	6426	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/cpp_client_wrapper/standard_codec.cc	e369c19235cccb01
+4	6426	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/cpp_client_wrapper/plugin_registrar.cc	e369c19235cccb01
+4	6426	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/cpp_client_wrapper/flutter_engine.cc	e369c19235cccb01
+4	6426	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/cpp_client_wrapper/flutter_view_controller.cc	e369c19235cccb01
+4	6426	7311651198646385	flutter/_phony_	e369c19235cccb01
+4	6426	7311651198646385	B:/GitHub/flutter test/uwu/windows/out/build/x64-Debug/flutter/_phony_	e369c19235cccb01
+6479	6670	7311854827245612	runner/CMakeFiles/uwu.dir/Runner.rc.res	bb3e1db1e61ac6f3
+21	6434	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_windows.dll	e369c19235cccb01
+21	6434	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_export.h	e369c19235cccb01
+21	6434	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_windows.h	e369c19235cccb01
+21	6434	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_messenger.h	e369c19235cccb01
+21	6434	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_plugin_registrar.h	e369c19235cccb01
+21	6434	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_texture_registrar.h	e369c19235cccb01
+21	6434	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/cpp_client_wrapper/core_implementations.cc	e369c19235cccb01
+21	6434	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/cpp_client_wrapper/standard_codec.cc	e369c19235cccb01
+21	6434	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/cpp_client_wrapper/plugin_registrar.cc	e369c19235cccb01
+21	6434	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/cpp_client_wrapper/flutter_engine.cc	e369c19235cccb01
+21	6434	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/cpp_client_wrapper/flutter_view_controller.cc	e369c19235cccb01
+21	6434	7311651198646385	flutter/_phony_	e369c19235cccb01
+21	6434	7311651198646385	B:/GitHub/flutter test/uwu/windows/out/build/x64-Debug/flutter/_phony_	e369c19235cccb01
+14	6291	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_windows.dll	e369c19235cccb01
+14	6291	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_export.h	e369c19235cccb01
+14	6291	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_windows.h	e369c19235cccb01
+14	6291	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_messenger.h	e369c19235cccb01
+14	6291	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_plugin_registrar.h	e369c19235cccb01
+14	6291	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_texture_registrar.h	e369c19235cccb01
+14	6291	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/cpp_client_wrapper/core_implementations.cc	e369c19235cccb01
+14	6291	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/cpp_client_wrapper/standard_codec.cc	e369c19235cccb01
+14	6291	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/cpp_client_wrapper/plugin_registrar.cc	e369c19235cccb01
+14	6291	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/cpp_client_wrapper/flutter_engine.cc	e369c19235cccb01
+14	6291	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/cpp_client_wrapper/flutter_view_controller.cc	e369c19235cccb01
+14	6291	7311651198646385	flutter/_phony_	e369c19235cccb01
+14	6291	7311651198646385	B:/GitHub/flutter test/uwu/windows/out/build/x64-Debug/flutter/_phony_	e369c19235cccb01
+18	6416	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_windows.dll	e369c19235cccb01
+18	6416	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_export.h	e369c19235cccb01
+18	6416	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_windows.h	e369c19235cccb01
+18	6416	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_messenger.h	e369c19235cccb01
+18	6416	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_plugin_registrar.h	e369c19235cccb01
+18	6416	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/flutter_texture_registrar.h	e369c19235cccb01
+18	6416	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/cpp_client_wrapper/core_implementations.cc	e369c19235cccb01
+18	6416	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/cpp_client_wrapper/standard_codec.cc	e369c19235cccb01
+18	6416	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/cpp_client_wrapper/plugin_registrar.cc	e369c19235cccb01
+18	6416	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/cpp_client_wrapper/flutter_engine.cc	e369c19235cccb01
+18	6416	7311651198646385	B:/GitHub/flutter test/uwu/windows/flutter/ephemeral/cpp_client_wrapper/flutter_view_controller.cc	e369c19235cccb01
+18	6416	7311651198646385	flutter/_phony_	e369c19235cccb01
+18	6416	7311651198646385	B:/GitHub/flutter test/uwu/windows/out/build/x64-Debug/flutter/_phony_	e369c19235cccb01

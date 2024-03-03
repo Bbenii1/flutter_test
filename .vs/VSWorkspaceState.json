@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\ios",
+    "\\ios\\Flutter",
     "\\lib"
   ],
-  "SelectedNode": "\\lib\\main.dart",
+  "SelectedNode": "\\ios",
   "PreviewInSolutionExplorer": false
 }
